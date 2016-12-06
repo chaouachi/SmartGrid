@@ -1,0 +1,2 @@
+set vertices := 1 2 3;
+param ncolors:= 2;
